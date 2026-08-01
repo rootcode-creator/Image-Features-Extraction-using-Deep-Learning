@@ -1,0 +1,22 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="24" y1="24" x2="216" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="48" y1="48" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#E0F2FE" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="216" height="216" rx="40" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="66" stroke="url(#ring)" stroke-width="14"/>
+  <circle cx="120" cy="120" r="30" fill="#FFFFFF" fill-opacity="0.18"/>
+  <path d="M86 120C86 101.22 101.22 86 120 86C138.78 86 154 101.22 154 120C154 138.78 138.78 154 120 154C101.22 154 86 138.78 86 120Z" stroke="#FFFFFF" stroke-width="10"/>
+  <path d="M120 70V94" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M120 146V170" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M70 120H94" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M146 120H170" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M102 102L120 120L138 102" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="218" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">AI VISION</text>
+</svg>
