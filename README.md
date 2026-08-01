@@ -4,6 +4,9 @@
 
 <h1 align="center">Image features extraction using deep learning</h1>
 
+<p align="center"><i>Deep learning-based image feature extraction and comparison using VGG-16, ResNet, and ZFNet.</i></p>
+
+
 <p align="center">
 	<img src="https://img.shields.io/badge/PROJECT-IMAGE%20AI-7F1D1D?style=for-the-badge&logo=readme&logoColor=white" alt="Project" />
 	<img src="https://img.shields.io/badge/LICENSE-MIT-15803D?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" />
@@ -18,13 +21,6 @@
 	<img src="https://img.shields.io/badge/ZFNET-SIMILARITY-F97316?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="ZFNet Features" />
 </p>
 
-<p align="center">
-	<strong>Feature extraction from images using deep learning models and feature-distance comparison.</strong>
-</p>
-
-<p align="center">
-	This project uses VGG-16, ResNet, and ZFNet to extract image features, compare the resulting feature vectors, and train VGG-16 on a sample image dataset.
-</p>
 
 <p align="center">
 	<a href="https://drive.google.com/drive/folders/1ZDxEePn27GfkPFJ8JVeDiOMn1-95TaAs?usp=sharing">Project drive link</a>
