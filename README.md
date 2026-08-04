@@ -84,7 +84,7 @@ The main implementation files are not present in this workspace snapshot. The pr
 | VGG-16 training | ✅ Current | VGG-16 is trained on a sample image dataset |
 | Image-analysis workflow | ✅ Current | Centers on feature extraction and comparison for images |
 
-### Flow diagram
+### 🌊 Flow diagram
 
 The flow below shows the intended analysis path from an input image to feature extraction and comparison.
 
